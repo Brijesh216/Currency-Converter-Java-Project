@@ -1,4 +1,4 @@
-# 💱 Currency-Converter-Java-Project-CodSoft  
+# 💱 Currency-Converter-Java-Project
 
 A **Java Swing-based Currency Converter** that fetches **real-time exchange rates** using the [ExchangeRate-API](https://www.exchangerate-api.com/) and provides a smooth, interactive interface for converting between multiple currencies.  
 
